@@ -1,4 +1,4 @@
-<h3 style="font-size: 200px !important;">HELLO</h3>
+![HELLO](https://user-images.githubusercontent.com/1451668/138444735-21b61f1d-cf36-469c-a60f-2d601df43cbf.png)
 
 <!--
 **anthonyec/anthonyec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
