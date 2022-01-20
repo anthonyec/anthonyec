@@ -1,10 +1,5 @@
 ![HELLO](https://user-images.githubusercontent.com/1451668/138444735-21b61f1d-cf36-469c-a60f-2d601df43cbf.png)
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/1451668/150394728-848dff51-1365-44f3-899d-b5152c8ec499.png" width="314" />
-  <img src="https://user-images.githubusercontent.com/1451668/150394811-e11efb41-3c55-4f5a-8821-dbef747b42f0.png" width="314" /> 
-</p>
-
 <!--
 **anthonyec/anthonyec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
