@@ -14,7 +14,7 @@
   </a>
 </p>
 
-Although I haven't included as I don't see the point, I am familiar with cucumber.
+<!-- Although I haven't included as I don't see the point, I am familiar with cucumber. -->
 
 
 <!--
