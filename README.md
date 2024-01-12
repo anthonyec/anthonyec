@@ -12,7 +12,11 @@
   <a href="https://github.com/anthonyec/201212_godot_car_physics">
     <img alt="Car physics" src="https://user-images.githubusercontent.com/1451668/150439104-36374b1a-9cf4-4c3a-9033-cca21552c8fd.gif" width="49%">
   </a>
+  <a href="https://github.com/anthonyec/godot_little_camera_preview">
+    <img alt="Little Camera Preview for Godot" src="https://github.com/anthonyec/anthonyec/assets/1451668/92437972-46bc-4299-b347-80d71b900ca8" width="49%">
+  </a>
 </p>
+
 
 <!-- Although I haven't included as I don't see the point, I am familiar with cucumber. -->
 
